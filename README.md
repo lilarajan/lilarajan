@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilarajan
+- 👋 Hi, I’m Lila Rajan
 - 👀 I’m interested in music, designing and coding
 - 🌱 I’m currently learning Python and Web Designing
 - 💞️ I’m looking to collaborate on Projects where I can contribute and leran
